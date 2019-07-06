@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XExpandableList</string>
+
+    <string name="enter_reply">Enter your reply</string>
+    <string name="submit">Submit</string>
+
+    <string name="empty_reply">Add something in reply</string>
+
+    <string name="select_proper_pos">Select proper position, and try again</string>
+</resources>
